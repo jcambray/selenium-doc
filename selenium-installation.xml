@@ -25,15 +25,22 @@
       <substep><![CDATA[
         Selenium IDE ce télécharge à cette <a class="btn btn-default" href="http://docs.seleniumhq.org/download/">adresse </a> il s’agit d’une extension pour le navigateur Firefox.
 		Cliquez sur la dernière version.
-      ]]></substep>
+      ]]>
+	  <img src="seleniumA.png"/> 
+	  </substep>
       <substep><![CDATA[
         Ensuite, Cliquer sur le bouton Autoriser afin de télécharger le module et procéder à l’installation.
-      ]]></substep>
+      ]]>
+	  <img src="seleniumB.png"/> 
+	  </substep>
       <substep><![CDATA[
         A la fin du téléchargement cette fenêtre apparait, cliquer sur le bouton installer maintenant.
-      ]]></substep>
+      ]]>
+	  <img src="seleniumC.png"/> 
+	  </substep>
 	   <substep><![CDATA[
         Ensuite, cliquer sur Redémarrer maintenant afin de finaliser l’installation.      ]]></substep>
+		<img src="seleniumD.png"/> 
     </step>
 	<!--
     <step name="Second Step">
