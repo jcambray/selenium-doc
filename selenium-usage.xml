@@ -20,54 +20,42 @@
     <keywords><![CDATA[xml,usage,selenium,firefox]]></keywords>
   </meta>
   <content lang="fr-FR">
-    <title><![CDATA[Usage]]></title>
-    <step name="First chr">
+    <title><![CDATA[I - Présentation]]></title>
+    <step name="Presentation">
       <substep><![CDATA[
-        My first text line. <a class="btn btn-default" href="http://download.software.com/">Download</a>
-      ]]></substep>
-      <substep><![CDATA[
-        Unzip the downloaded file.
-      ]]></substep>
-      <substep><![CDATA[
-        Launch executable file "sample.exe"
-      ]]></substep>
-    </step>
-    <step name="Second Step">
-      <substep><![CDATA[
-        Go to the configuration menu
-      ]]></substep>
-      <substep><![CDATA[
-        Configure this settings : .
-      ]]></substep>
-      <substep><![CDATA[
-        Then click on start button.
+		Dans le cadre du développement d'une application, quelle qu'elle soit, les tests sont indispensables, et prennent une part
+		importante du développement. 
+		Aujourd'hui, la plupart sont automatisés, ce qui permet un gain de temps, ainsi que plus de fiabilité.
+		Selenium est un de ces outils d'automatisation, concernant les tests d'interface des applications Web.
+
+		Selenium IDE : c'est une extension de Firefox, qui permet d'enregistrer une suite d'actions, qu'il sera possible de rejouer à volonté.
+		
+		Selenium est un projet distribué sous la licence href="https://www.apache.org/licenses/LICENSE-2.0"> Apache 2.0</a>, et peut être téléchargé librement depuis href="http://seleniumhq.org/"> seleniumhq.org </a>.
       ]]></substep>
     </step>
   </content>
   <content lang="fr-FR">
-    <title><![CDATA[Installation de Maven]]></title>
-    <step name="First Step">
+    <title><![CDATA[II - Utilisation de Selenium IDE]]></title>
+    <step name="Creation dun cas">
       <substep><![CDATA[
-        Pour linux l'installation de Maven est relativement simple car un packet est présent sur les dépôts de la majorité des distributions.
-        Cliquez sur le lien suivant : <a href="apt://maven">Maven via APT</a>
+		
       ]]></substep>
       <substep><![CDATA[
-        Si le lien ci-dessus ne fonctionne pas vous pouvez ouvrir un terminal et saisir : "apt-get install maven"
+	  
       ]]></substep>
       <substep><![CDATA[
-        Maintenant que vous avez installé Maven, vous pouvez dès à présent vérifier qu'il est fonctionnel en tappant dans un terminal : "mvn --version".
-        Les lignes suivantes s'afficheront.
+	  
       ]]></substep>
     </step>
-    <step name="Second Step">
+    <step name="Insertion manuelle dune commande">
       <substep><![CDATA[
-        Go to the configuration menu
+	  
       ]]></substep>
       <substep><![CDATA[
-        Configure this settings : .
+	  
       ]]></substep>
       <substep><![CDATA[
-        Then click on start button.
+	  
       ]]></substep>
     </step>
   </content>
