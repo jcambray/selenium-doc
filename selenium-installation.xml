@@ -21,7 +21,7 @@
   </meta>
   <content lang="fr-FR">
     <title><![CDATA[Installation]]></title>
-    <step name="First chr">
+    <step name="Installation">
       <substep><![CDATA[
         Selenium IDE ce télécharge à cette <a class="btn btn-default" href="http://docs.seleniumhq.org/download/">adresse </a> il s’agit d’une extension pour le navigateur Firefox.
 		Cliquez sur la dernière version.
